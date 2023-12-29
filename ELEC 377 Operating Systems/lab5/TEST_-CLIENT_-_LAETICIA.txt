@@ -1,0 +1,33 @@
+19lvn@elec377-tues-pm-56:~/elec377-tues-pm-56/lab5$ ./client 3333
+Port Number  3333
+SHELL=/bin/bash
+COLORTERM=truecolor
+TERM_PROGRAM_VERSION=1.83.1
+PWD=/home/19lvn/elec377-tues-pm-56/lab5
+KRB5CCNAME=FILE:/tmp/krb5cc_1007_qwPPxF
+LOGNAME=19lvn
+XDG_SESSION_TYPE=tty
+VSCODE_GIT_ASKPASS_NODE=/home/19lvn/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/node
+MOTD_SHOWN=pam
+HOME=/home/19lvn
+LANG=C.UTF-8
+GIT_ASKPASS=/home/19lvn/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/extensions/git/dist/askpass.sh
+SSH_CONNECTION=10.216.212.232 58600 192.168.101.152 22
+VSCODE_GIT_ASKPASS_EXTRA_ARGS=
+XDG_SESSION_CLASS=user
+TERM=xterm-256color
+USER=19lvn
+VSCODE_GIT_IPC_HANDLE=/run/user/1007/vscode-git-865ba54d7f.sock
+SHLVL=2
+XDG_SESSION_ID=601
+XDG_RUNTIME_DIR=/run/user/1007
+SSH_CLIENT=10.216.212.232 58600 22
+VSCODE_GIT_ASKPASS_MAIN=/home/19lvn/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/extensions/git/dist/askpass-main.js
+XDG_DATA_DIRS=/usr/local/share:/usr/share:/var/lib/snapd/desktop
+BROWSER=/home/19lvn/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/bin/helpers/browser.sh
+PATH=/home/19lvn/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/bin/remote-cli:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin
+DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1007/bus
+TERM_PROGRAM=vscode
+VSCODE_IPC_HOOK_CLI=/run/user/1007/vscode-ipc-6b88fae7-dfd0-4c4d-a3b7-bdd63991e103.sock
+_=./quoteserv
+MD5=7af85e4401c3be39f5931830a7052dd8
