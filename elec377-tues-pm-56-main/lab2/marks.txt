@@ -1,0 +1,34 @@
+Documentation 3.5/3.5:
+-good documentation!
+
+Testing Docs 0.5/3.5:
+-missing any testing documentation
+-missing splitCommandLine tests and external command tests
+-gave half mark for included test outputs
+
+Code Correctness 1.5/1.5:
+-missing test cases requires inspection to verify outputs, in the future this may affect your code correctness mark!
+-exitFunc should check for other arguments, especially args[1]
+    -not deducting marks, but be more thorough when reading through lab instructions
+-example solution for exitFunc:
+void exitFunc(char * args[], int nargs){
+   if (nargs == 1){
+       exit(0);
+   } else {
+      // check if args[1] is a number
+      char * curPos = args[1];
+      while (*curPos != '\0'){
+          if (!isdigit(*curPos)){
+	     // don't do exit if an error
+	     fprintf(stderr,"argument to exit must be an integer\n");
+	     return;
+	  }
+	  exit(atoi(args[1]));
+      }
+   }
+}
+
+Code Clarity 1.5/1.5:
+-code is clear and well documented
+
+Total /10
